@@ -3,6 +3,7 @@
 ## W1L2 In-Class Activity
 
 Put your notes from the W1L2 (Thurs, Jan 9) in-class activity here.
+
 Objects
  –UI
    -seeds planted UI
@@ -10,6 +11,7 @@ Start with 0, increase as pressing space
 Attribute: text
    -seeds remaining UI
 Initially 5, decrease as pressing space
+ 
  --player 
 Movement (WASD)
 Plant (space)
@@ -18,6 +20,7 @@ Plant (space)
 -Output - if the player has seeds remaining: 1 seed is planted at the player’s location; decrease seed count + increase plant count (show up UI)
 Attributes: sprite, xy coordinates
 Check the number of seeds before planting(the player has to have a seed before planting, create a plant object at its current position
+
 –plants
 Appear
 Attribute: xy coordinates, sprite
